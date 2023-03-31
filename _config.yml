@@ -26,4 +26,6 @@ sidebar:
     link: http://instagram.com/fi5hie
 github: [metadata]
 url: killerfish.github.io
-baseurl: /aboutme
+cdn:
+  jsdelivr:
+    enabled: true
