@@ -154,7 +154,7 @@ Anime, Sports, Computer Gaming.
 - FSCalendar, Charts, Alamofire
 </pre>
 
-<img src="/assets/img/better_1.png" style="margin-right: 10px;" width="20%"><img src="/assets/img/better_2.png" width="20%" style="margin-right: 10px;"> <img src="/assets/img/better_3.png" width="20%" style="margin-right: 10px;"> <img src="/assets/img/better_4.png" width="20%" style="margin-right: 10px;">
+<img src="/assets/img/Better_1.png" style="margin-right: 10px;" width="20%"><img src="/assets/img/Better_2.png" width="20%" style="margin-right: 10px;"> <img src="/assets/img/Better_3.png" width="20%" style="margin-right: 10px;"> <img src="/assets/img/Better_4.png" width="20%" style="margin-right: 10px;">
 
 <p style="margin: 40px;"></p>
 ## Answering Specialists - VoIP Business App
