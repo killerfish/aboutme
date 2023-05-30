@@ -101,7 +101,7 @@ planning and successfully resolved various product issues.
 the field and a commitment to driving innovation.
 ```
 
-### Hardloop - CEO & Co-founder (July 2015 – November 2016)
+### Hardloop - CTO & Co-founder (July 2015 – November 2016)
 
 ```
 Hardloop: an iOS app which rewards for people to stay active and fit by running.
