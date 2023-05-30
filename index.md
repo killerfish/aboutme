@@ -69,7 +69,7 @@ functionality for a business client (Answering Specialists).
 Currently working on a code snippets app, which is in progress.
 ```
 
-### goHardloop - CEO & Co-founder (November 2019 – February 2021)
+### GoHardloop - CEO & Co-founder (November 2019 – February 2021)
 
 ```
 Hardloop is an iOS app which helps users plan, schedule and 
