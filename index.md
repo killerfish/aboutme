@@ -61,7 +61,7 @@ environment. Currently focusing on iOS development.*
   <hr>
 </div>
 
-### Indie Developer (March 2021 - Present)
+### Independent iOS Developer (March 2021 - Present)
 ```
 - Developed and launched two iOS apps from 0->1, including
 a habit tracker app and a VoIP app with backend 
