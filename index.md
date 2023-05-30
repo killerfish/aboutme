@@ -92,7 +92,9 @@ and improving existing ones.
 ```
 - Contributed to the development and enhancement of core 
 features for IRIS core product, utilizing scrum 
-methodology. 
+methodology.
+- Collaborated closely with the design team and stakeholders
+to contribute to the mobile design of Iris.
 - Collaborated with cross-functional teams in sprint 
 planning and successfully resolved various product issues. 
 - Added new features to the product, demonstrating expertise in 
