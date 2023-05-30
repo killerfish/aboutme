@@ -69,9 +69,12 @@ functionality for a business client (Answering Specialists).
 Currently working on a code snippets app, which is in progress.
 ```
 
-### Hardloop - CEO & Co-founder (June 2015 – Present)
+### Hardloop - CEO & Co-founder (November 2019 – February 2021)
 
 ```
+Hardloop is an iOS app which helps users plan, schedule and 
+track their outdoor fitness activities.
+
 - Led the discovery, development, and launch strategy for 
 Hardloop iOS app, including its backend infrastructure.
 - Planned the product roadmap, setup analytics, and 
@@ -96,6 +99,20 @@ planning and successfully resolved various product issues.
 the field and a commitment to driving innovation.
 ```
 
+### Hardloop - CEO & Co-founder (July 2015 – November 2016)
+
+```
+Hardloop: an iOS app which rewards for people to stay active and fit by running.
+
+- I designed, developed, and successfully launched an iOS app
+as a co-founder, leveraging expertise in iOS development, 
+user experience design, and project management.
+- I led app testing and quality assurance efforts, ensuring
+a bug-free user experience.
+- I cultivated partnerships by reaching out to small businesses
+to offer rewards through the Hardloop app.
+```
+
 ### DuckDuckGo - Community Leader (Jan 2015 – Present)
 
 ```
@@ -106,13 +123,15 @@ DuckDuckGo's mission of privacy protection.
 instant answers and resolved user issues.
 ```
 
-### Speechtrans - Chief Innovation Officer (Jan 2013 – June 2015)
+### Speechtrans - Chief Innovation Officer, VoIP & Mobile (Jan 2013 – June 2015)
 
 ```
 - Led product development efforts and spearheaded new R&D 
 projects such as telephony and transcription APIs, resulting 
 in successful series A funding of $5m and key partnerships with 
 industry leaders including Nuance, HP, and Intel.
+- Integrated new features & help fix bugs in the iOS app to improve
+the user experience for thousands of users.
 - Managed a small team of developers and employed a data-driven 
 approach to iterate over existing services and apps, resulting 
 in an improved app rating of 4 stars on the iOS store.
