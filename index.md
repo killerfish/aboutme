@@ -69,7 +69,7 @@ functionality for a business client (Answering Specialists).
 Currently working on a code snippets app, which is in progress.
 ```
 
-### Hardloop v2 - CEO & Co-founder (November 2019 – February 2021)
+### goHardloop - CEO & Co-founder (November 2019 – February 2021)
 
 ```
 Hardloop is an iOS app which helps users plan, schedule and 
@@ -101,7 +101,7 @@ planning and successfully resolved various product issues.
 the field and a commitment to driving innovation.
 ```
 
-### Hardloop v1 - CTO & Co-founder (July 2015 – November 2016)
+### Hardloop - CTO & Co-founder (July 2015 – November 2016)
 
 ```
 Hardloop: an iOS app which rewards for people to stay active and fit by running.
