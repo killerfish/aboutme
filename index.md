@@ -65,8 +65,8 @@ environment. Currently focusing on iOS development.*
 ```
 - Developed and launched two iOS apps from 0->1, including
 a habit tracker app and a VoIP app with backend 
-functionality for a business client (Answering Specialists).
-Currently working on a code snippets app, which is in progress.
+functionality.
+- Currently working on a medical app.
 ```
 
 ### GoHardloop - CEO & Co-founder (November 2019 – February 2021)
