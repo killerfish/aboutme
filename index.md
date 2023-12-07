@@ -41,7 +41,7 @@ environment. Currently focusing on iOS development.*
 <div class="separator">
   <hr>
 </div>
-- [DocMe - Measure monitor and manage your cardiovascular health](#docme---Measure-monitor-and-manage-your-cardiovascular-health)
+- [DocMe - Measure monitor and manage your cardiovascular health](#docme---measure-monitor-and-manage-your-cardiovascular-health)
 
 ## 🕹️ Side Projects
 <div class="separator">
