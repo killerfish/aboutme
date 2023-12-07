@@ -37,7 +37,13 @@ environment. Currently focusing on iOS development.*
 - [Answering Specialists - VoIP Business App](#answering-specialists---voip-business-app)
 - [Hardloop - Outdoor Fitness Tracker](#hardloop---outdoor-fitness-tracker)
 
-## 🚧 Work In Progress
+## 🚧 Current Projects
+<div class="separator">
+  <hr>
+</div>
+- [DocMe - Measure monitor and manage your cardiovascular health](#docme---Measure-monitor-and-manage-your-cardiovascular-health)
+
+## 🕹️ Side Projects
 <div class="separator">
   <hr>
 </div>
@@ -45,7 +51,7 @@ environment. Currently focusing on iOS development.*
 
 ## 🛠 Skills 
 <pre>
-<b>Languages:</b> Perl, Swift, Objective-C, C, Lua, Java, BASH, 
+<b>Languages:</b> Perl, Swift, Objective-C, SwiftUI, C, Lua, Java, BASH, 
            JavaScript, HTML, CSS, PHP, Groovy, C#, Assembly
 <b>Databases:</b> MySQL, PostgreSQL, Realm, Redis, MongoDB
 <b>VoIP:</b> Asterisk, Freeswitch, UniMRCP, OpenSIPS
@@ -63,6 +69,8 @@ environment. Currently focusing on iOS development.*
 
 ### Independent iOS Developer (March 2021 - Present)
 ```
+- Currently working on an iOS which helps users measure, monitor
+and manage their cardiovascular health.
 - Developed and launched two iOS apps from 0->1, including
 a habit tracker app and a VoIP app with backend 
 functionality.
@@ -207,6 +215,19 @@ Anime, Sports, Computer Gaming.
 
 <img src="/assets/img/hardloop_1.png" style="margin-right: 10px;" width="20%"><img src="/assets/img/hardloop_2.png" width="20%" style="margin-right: 10px;"> <img src="/assets/img/hardloop_3.png" width="20%" style="margin-right: 10px;"> <img src="/assets/img/hardloop_4.png" width="20%" style="margin-right: 10px;"> <img src="/assets/img/hardloop_5.png" width="20%" style="margin-right: 10px;"> <img src="/assets/img/hardloop_6.png" width="20%" style="margin-right: 10px;"> <img src="/assets/img/hardloop_7.png" width="20%" style="margin-right: 10px;"> <img src="/assets/img/hardloop_8.png" width="20%" style="margin-right: 10px;">
 
+
+## DocMe - Measure monitor and manage your cardiovascular health
+<div class="separator">
+  <hr>
+</div>
+### ⚗️ Building-with
+<pre>
+- Swift, SwiftUI, Swift Package Manager, SQLite
+</pre>
+
+<img src="/assets/img/docme_1.png" style="margin-right: 10px;" width="20%"><img src="/assets/img/docme_2.png" width="28.5%" style="margin-right: 10px;"> <img src="/assets/img/docme_3.png" width="33%" style="margin-right: 10px;"> <img src="/assets/img/docme_4.png" width="20%" style="margin-right: 10px;">
+
+
 ## CodeBox - Run Code snippets From Anywhere (WIP)
 <div class="separator">
   <hr>
@@ -216,5 +237,4 @@ Anime, Sports, Computer Gaming.
 - Swift, SwiftUI, Realm
 </pre>
 
-<img src="/assets/img/codebox_1.png" style="margin-right: 10px;" width="20%"><img src="/assets/img/codebox_2.png" width="20%" style="margin-right: 10px;"> <img src="/assets/img/codebox_2.png" width="20%" style="margin-right: 10px;"> <img src="/assets/img/codebox_4.png" width="20%" style="margin-right: 10px;">
-
+<img src="/assets/img/codebox_1.png" style="margin-right: 10px;" width="20%"><img src="/assets/img/codebox_2.png" width="20%" style="margin-right: 10px;"> <img src="/assets/img/codebox_3.png" width="20%" style="margin-right: 10px;"> <img src="/assets/img/codebox_4.png" width="20%" style="margin-right: 10px;">
