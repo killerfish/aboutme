@@ -223,6 +223,7 @@ Anime, Sports, Computer Gaming.
 ### ⚗️ Building-with
 <pre>
 - Swift, SwiftUI, Swift Package Manager, SQLite
+- Secret Ingredients 🔨
 </pre>
 
 <img src="/assets/img/docme_1.png" style="margin-right: 10px;" width="20%"><img src="/assets/img/docme_2.png" width="28.5%" style="margin-right: 10px;"> <img src="/assets/img/docme_3.png" width="33%" style="margin-right: 10px;"> <img src="/assets/img/docme_4.png" width="20%" style="margin-right: 10px;">
